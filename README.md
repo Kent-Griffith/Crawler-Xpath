@@ -20,7 +20,7 @@ save_img(nurl,ntitle,url)`
 
 同时遍历两个列表
 
-自动翻页函数，通过找到下一页的链接，从而让程序自己跳转下一页，
+自动翻页函数，通过找到下一页的链接，从而让程序自己跳转下一页
 
 ![image](https://user-images.githubusercontent.com/97998239/156748219-4d348614-a91a-4c7f-86af-24712f4a4f25.png)
 
